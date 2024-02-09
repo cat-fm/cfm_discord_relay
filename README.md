@@ -3,3 +3,4 @@
 
 ## Dependencies.
 - [GWSockets](https://github.com/FredyH/GWSockets)
+- [cfm_discord_relay_backend](https://github.com/cat-fm/cfm_discord_relay_backend)
